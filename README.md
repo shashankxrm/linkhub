@@ -121,7 +121,7 @@ Run the vite app
 - After cloning, edit your details.
 - Now deploy this code on Vercel- [Youtube](https://www.youtube.com/watch?v=sYL9N5QBcrU)
 
-  ### And, this is how easy it it...
+  ### And, Yup that's it! you are good to go...
 <!-- Contact -->
 ## Contact
 
