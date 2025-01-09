@@ -88,7 +88,7 @@ A project that includes all my social media and important links, fully customiza
 ## Getting Started
 
 <!-- Run Locally -->
-### Make your LinkIt
+### Make your LinkHub
 
 Clone the project
 
