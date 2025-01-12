@@ -125,7 +125,7 @@ Run the vite app
 <!-- Contact -->
 ## Contact
 
-Rinkit Adhana - [@Shashank Reddy](https://shashankxrm.vercel.app/) - shashankreddy0608@gmail.com
+Shashank Reddy - [@Shashank Reddy](https://shashankxrm.vercel.app/) - shashankreddy0608@gmail.com
 
 Project Link: [Github Repository](https://github.com/shashankxrm/linkhub)
 
